@@ -1,5 +1,6 @@
 <!--Main blog text-->
 # Jay's Blog:
+![Picture of Jay and family](./img/blogpic.jpg)
 ## Was your first week what you expected? Why? Why not?
 It was more than I expected to be honest mainly cause all I've been working with before was HTML, CSS and a little Javascript. Being introduced to git, github and gitpod has honestly been really confusing and getting them to connect/work together just hasn't been working for me.
 
