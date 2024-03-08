@@ -8,4 +8,6 @@ It was more than I expected to be honest mainly cause all I've been working with
 I'm eager to get a better understanding of how git, gitpod, github and vscode work together to properly make things function correctly.
 
 ## What is something about you that can only be learned by reading this blog?
-My name is Jay Miller, I am 21 years old and live in Lexington, KY. Two things you'll learn about me from reading this blog post are that I love to play basketball and video games. 
+My name is Jay Miller, I am 21 years old and live in Lexington, KY. Two things you'll learn about me from reading this blog post are that I love to play basketball and video games.
+![Basketball]()
+![Destiny 2]()
