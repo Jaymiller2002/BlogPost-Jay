@@ -11,3 +11,11 @@ I'm eager to get a better understanding of how git, gitpod, github and vscode wo
 My name is Jay Miller, I am 21 years old and live in Lexington, KY. Two things you'll learn about me from reading this blog post are that I love to play basketball and video games.
 ![Basketball]()
 ![Destiny 2]()
+## What is something you wish you could do but currently do not have the coding skills to accomplish?
+I wish i could explain my coding process more and actually bge able to go over my code and explain what I did rather than what I did on our last demo day.
+## What are you struggling with?
+I would say I struggle with asking questions but mostly with staying focused and getting my work done. 
+## How do you solve a problem?
+Usually when I get stuck on something I troubleshoot by myself for about an hour or two and if i'm still stuck I ten to take a break and watch a video on it. However I should instead reach out and ask questions but I don't because I get distracted by other things like youtube. 
+## What methods do you use to help yourself get unstuck?
+Look up videos online or ask questions if I can't find the answer online
