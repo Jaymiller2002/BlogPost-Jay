@@ -9,8 +9,9 @@ I'm eager to get a better understanding of how git, gitpod, github and vscode wo
 
 ## What is something about you that can only be learned by reading this blog?
 My name is Jay Miller, I am 21 years old and live in Lexington, KY. Two things you'll learn about me from reading this blog post are that I love to play basketball and video games.
-![Basketball]()
-![Destiny 2]()
+<img src="C:\Users\jaymi\Downloads\Basketball.webp" alt="Basketball">
+<img src="C:\Users\jaymi\Downloads\Destiny2.jpg" alt="Destiny 2">
+
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 I wish i could explain my coding process more and actually bge able to go over my code and explain what I did rather than what I did on our last demo day.
 ## What are you struggling with?
