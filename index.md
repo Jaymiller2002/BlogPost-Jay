@@ -21,3 +21,21 @@ I would say I struggle with asking questions but mostly with staying focused and
 Usually when I get stuck on something I troubleshoot by myself for about an hour or two and if i'm still stuck I ten to take a break and watch a video on it. However I should instead reach out and ask questions but I don't because I get distracted by other things like youtube. 
 ## What methods do you use to help yourself get unstuck?
 Look up videos online or ask questions if I can't find the answer online
+## What was helpful during Onboarding working remotely?
+## What hindered your progress during Onboarding?
+## How did you overcome challenges during Onboarding?
+## Was your first week what you expected? Why? Why not?
+## What are you excited or eager to learn more about?
+## What is something about you that can only be learned by reading this blog?
+## What is something you wish you could do but currently do not have the coding skills to accomplish?
+## What are you struggling with?
+## How do you solve a problem? 
+## What methods do you use to help yourself get unstuck?
+## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+## What are your thoughts on pseudocoding?
+## What was helpful during Onboarding that made working remotely easier?
+## What hindered your progress during Onboarding?
+## How did you overcome challenges during Onboarding?
+## What is the number one thing that held you back this week? Why?
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+## What is your “Why”?
