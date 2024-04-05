@@ -29,13 +29,9 @@ Look up videos online or ask questions if I can't find the answer online
 ## What is something about you that can only be learned by reading this blog?
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 ## What are you struggling with?
-## How do you solve a problem? 
+## How do you solve a problem?
+I slove problems by smashing my head into the problem until I figure it out
 ## What methods do you use to help yourself get unstuck?
-## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
-## What are your thoughts on pseudocoding?
-## What was helpful during Onboarding that made working remotely easier?
-## What hindered your progress during Onboarding?
-## How did you overcome challenges during Onboarding?
-## What is the number one thing that held you back this week? Why?
-## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
-## What is your “Why”?
+first, I take a breath and remeber this is all new
+
+
