@@ -21,17 +21,13 @@ I would say I struggle with asking questions but mostly with staying focused and
 Usually when I get stuck on something I troubleshoot by myself for about an hour or two and if i'm still stuck I ten to take a break and watch a video on it. However I should instead reach out and ask questions but I don't because I get distracted by other things like youtube. 
 ## What methods do you use to help yourself get unstuck?
 Look up videos online or ask questions if I can't find the answer online
-## What was helpful during Onboarding working remotely?
-## What hindered your progress during Onboarding?
-## How did you overcome challenges during Onboarding?
-## Was your first week what you expected? Why? Why not?
-## What are you excited or eager to learn more about?
-## What is something about you that can only be learned by reading this blog?
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
+Currently I'd like to be able to use Javascript and properly link my elements and/or anything else. Javascript is easliy the biggest struggle for me
 ## What are you struggling with?
+Javascript
 ## How do you solve a problem?
-I slove problems by smashing my head into the problem until I figure it out
+I slove problems by smashing my head into the problem until I figure it out or get stuck and then ask for help
 ## What methods do you use to help yourself get unstuck?
-first, I take a breath and remeber this is all new
+first, I take a breath and remeber this is all new and then I ask chatGPT then take what chatGPT gives me and look it up online. I like to see if I can find a MDN or overflow document.
 
 
