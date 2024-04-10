@@ -11,3 +11,24 @@
     background-repeat: no-repeat; 
     background-size: cover;  
 }
+
+.photo {
+    padding-top: 20px;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+    color: white;
+}
+
+button {
+    margin-top: 30px;
+    background-color: aqua;
+    border: none;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: blue;
+}
