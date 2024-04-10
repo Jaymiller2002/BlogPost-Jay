@@ -9,12 +9,14 @@
     margin-left: 235px; 
     background-image: url(https://www.bu.edu/files/2022/07/feat-STScI-01G7ETNMR8CBHQQ64R4CVA1E6T-1200x1200.jpg); 
     background-repeat: no-repeat; 
-    background-size: cover;  
+    background-size: cover;
 }
 
 .photo {
     padding-top: 20px;
     height: 10px;
+    border: none;
+    border-radius: 5px;
 }
 
 li {
@@ -29,6 +31,7 @@ button {
     background-color: rgb(100, 99, 99);
     border: none;
     border-radius: 3px;
+    justify-content: center;
 }
 
 button:hover {
@@ -37,6 +40,8 @@ button:hover {
 
 a i {
     color: rgb(100, 99, 99);
+    position: relative;
+    top: 15px;
 }
 
 a i:hover {
