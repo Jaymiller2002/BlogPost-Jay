@@ -16,9 +16,6 @@ body {
     border: none;
 }
 
-/*.photo {
-    height: 20px;
-}*/
 
 img {
     width: 15rem;
@@ -46,7 +43,7 @@ li {
 a i {
     color: black;
     position: relative;
-    top: 250px;
+    top: 50px;
     padding: 5px;
     size: 30px;
 }
