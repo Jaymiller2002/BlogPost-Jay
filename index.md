@@ -30,4 +30,4 @@ I slove problems by smashing my head into the problem until I figure it out or g
 ## What methods do you use to help yourself get unstuck?
 first, I take a breath and remeber this is all new and then I ask chatGPT then take what chatGPT gives me and look it up online. I like to see if I can find a MDN or overflow document.
 
-
+<a href="2/blog-post-sprint-2.html">Link to blog post html</a>
