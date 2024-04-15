@@ -3,15 +3,21 @@ body {
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     max-width: 400px;
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-background-waves-light-seafoam-green-business-card-wallpaper-176731524.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
     justify-content: center; /* Center content vertically */
     align-items: center;
     align-content: center;
-    height: 100vh; 
+    margin: 20px auto;
+    margin-left: 450px;
+    /*height: 100vh;*/ 
     width: 300px;
-    margin: 20px auto; 
     background-image: url(https://www.bu.edu/files/2022/07/feat-STScI-01G7ETNMR8CBHQQ64R4CVA1E6T-1200x1200.jpg); 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -65,13 +71,15 @@ a i:hover {
 
 .social-media-banner {
     display: flex;
-    justify-content: space-between;
-    max-width: 360px; /* Adjust maximum width as needed */
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    max-width: 340px; /* Adjust maximum width as needed */
     width: 100%; /* Ensure full width */
     padding: 10px; /* Add padding */
     border: 2px solid #8622e4; /* Add border */
     border-radius: 10px; /* Add border-radius */
     background-color: #ffffff; /* Add background color */
+     
 }
 
 /* Styles for individual social media icons (unchanged) */
