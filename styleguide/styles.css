@@ -69,8 +69,8 @@ a i:hover {
 .social-media-banner {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
-    max-width: 340px;
+    justify-content: center;
+    max-width: 300px;
     width: 100%;
     padding: 10px;
     border: 2px solid #ac571f;
