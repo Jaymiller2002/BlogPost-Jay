@@ -1,11 +1,14 @@
 body {
     background-color: black !important;
+    background-image: url(https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 3rem;
     padding-bottom: 3rem;
     font-family: Arial, sans-serif;
 }
 .container {
-    background-color: #ccc;
+    background-color: white;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 20px;
