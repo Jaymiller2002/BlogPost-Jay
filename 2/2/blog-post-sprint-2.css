@@ -1,0 +1,35 @@
+body {
+    background-color: #000000  !important;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color: #cbcfc1;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+p {
+    color: #6c757d;
+}
+.lead {
+    font-size: 1.25rem;
+    color: #212529;
+}
+.img-thumbnail {
+    border: none;
+    border-radius: 5px;
+}
