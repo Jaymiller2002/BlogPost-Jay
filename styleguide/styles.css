@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom right, #ffecd2, #fcb69f);
+    background: linear-gradient(to bottom right, #a371ff, #4171c9);
     margin: 0;
     padding: 0;
     display: flex;
@@ -21,6 +21,7 @@ body {
     background-image: url(https://www.bu.edu/files/2022/07/feat-STScI-01G7ETNMR8CBHQQ64R4CVA1E6T-1200x1200.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    border: none;
 }
 
 img {
@@ -74,7 +75,7 @@ a i:hover {
     padding: 10px;
     border: 2px solid #8622e4;
     border-radius: 10px;
-    background-color: #ffffff;
+    background: linear-gradient(to bottom right, #ac571f, #b3b02c);
 }
 
 .social-media-banner a {
