@@ -40,3 +40,12 @@ p {
     border: none;
     border-radius: 5px;
 }
+
+@media screen and (max-width: 300px) {
+    .container {
+        width: 95%; /* Adjust width for smaller screens */
+    }
+    .img {
+        margin-top: 10px; /* Adjust margin for smaller screens */
+    }
+}
