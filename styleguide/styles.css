@@ -51,6 +51,10 @@ li {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
+li:hover {
+    color: #ccc;
+}
+
 a {
     text-decoration: none !important;
     color: white !important;
